@@ -7,17 +7,14 @@
 }
 
 p{
-  color: #800000;
+  color: #FF00FF;
 }
  h1{
    color: #800080;
  }
 p{
   font-style: oblique;
-font-size: 156;
+font-size: 350;
 }
 
 
-p, h1 {
-color: #3ae6ca;
-}
