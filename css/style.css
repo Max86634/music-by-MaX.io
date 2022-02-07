@@ -6,19 +6,19 @@
     font-style: normal;
 }
 
-p{
+.p{
     position: absolute;
   color: #FFFFFF;
 }
- h1{
+ .h1{
      position: absolute;
    color: #FFFFFF;
  }
-p{
+.p{
   font-style: oblique;
 font-size: 350;
 }
-a{
+.a{
     position: absolute;
 }
 
